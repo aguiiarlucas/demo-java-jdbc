@@ -1,2 +1,2 @@
 # demo-java-jdbc
-Projeto formalizado de acordo com o Curso Udemy Java , do professor Nelio Alves  (@acenelio)
+Baseado nos estudos do curso da Udemy- Java COMPLETO 2020 Programação Orientada a Objetos  + Projetos, do professor Nelio Alves
