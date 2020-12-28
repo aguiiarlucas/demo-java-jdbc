@@ -11,7 +11,7 @@ public interface DepartmentDao {
 
 	void update(Department obj);
 
-	void deleteByID(Integer id);
+	void deleteById(Integer id);
 
 	Department findById(Integer id); // pegar o id e consultar n bd se exister.
 
